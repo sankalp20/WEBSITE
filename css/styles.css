@@ -1,0 +1,23 @@
+body {
+  background-color:beige;
+}
+
+h1 {
+  color: #8B0000;
+}
+
+h4 {
+  color: #008000;
+}
+
+hr {
+  border-color: #2f4f4f;
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 30%;
+  background-color:beige;
+}
+
+.FLAG {
+  background-color: black;
+}
